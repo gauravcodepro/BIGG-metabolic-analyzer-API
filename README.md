@@ -1,4 +1,4 @@
-# streamlit-BIGG-metabolic-analyzer
+# streamlit-BIGG-metabolic-analyzer-API
 
 - streamlit application to analyze the BIGG Metabolic models.
 - You can have the reactions
