@@ -1,8 +1,7 @@
 # streamlit-BIGG-metabolic-analyzer-API
 
 - streamlit application to analyze the BIGG Metabolic models.
-- You can have the reactions
-- You can have the gene sequences
+- You can have the reactions, gene sequences
 - You can have the models and the reactions.
 - I implemented faster loop iteration and hash searching to make it faster.
 - Not implemented the page rank or the stack algorithm. 
