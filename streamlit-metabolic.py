@@ -1,7 +1,7 @@
 #! usr/bin/env python3
 # Author Gaurav
 # Univeristat Potsdam
-# Date 2024-5-6
+# Date 2024-6-21
 # a streamlit application for the analysis of the metabolic models from BIGG database.
 
 import streamlit as st
