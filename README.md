@@ -12,11 +12,11 @@ conda activate streamlit
 streamlit run streamlit-metabolic.py
 ```
 
-<img src="https://github.com/gauravcodepro/streamlit-BIGG-metabolic-analyzer/blob/main/metabolic1.png" height = 400>
+<img src="https://github.com/gauravcodepro/streamlit-BIGG-metabolic-analyzer/blob/main/metabolic1.png">
 
-<img src="https://github.com/gauravcodepro/streamlit-BIGG-metabolic-analyzer/blob/main/metabolic2.png" height = 400>
+<img src="https://github.com/gauravcodepro/streamlit-BIGG-metabolic-analyzer/blob/main/metabolic2.png">
 
-<img src="https://github.com/gauravcodepro/streamlit-BIGG-metabolic-analyzer/blob/main/metabolic3.png" height = 400>
+<img src="https://github.com/gauravcodepro/streamlit-BIGG-metabolic-analyzer/blob/main/metabolic3.png">
 
 Gaurav \
 Academic Staff Member \
