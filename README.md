@@ -4,6 +4,8 @@
 - You can have the reactions
 - You can have the gene sequences
 - You can have the models and the reactions.
+- I implemented faster loop iteration and hash searching to make it faster.
+- Not implemented the page rank or the stack algorithm. 
 
 ```
 git clone https://github.com/gauravcodepro/streamlit-BIGG-metabolic-analyzer.git
