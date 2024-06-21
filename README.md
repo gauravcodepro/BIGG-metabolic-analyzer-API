@@ -5,11 +5,11 @@
 - You can have the gene sequences
 - You can have the models and the reactions.
 
-![]("https://github.com/gauravcodepro/streamlit-BIGG-metabolic-analyzer/blob/main/metabolic1.png")
+<img src="https://github.com/gauravcodepro/streamlit-BIGG-metabolic-analyzer/blob/main/metabolic1.png" height = 400>
 
-[]("https://github.com/gauravcodepro/streamlit-BIGG-metabolic-analyzer/blob/main/metabolic2.png")
+<img src="https://github.com/gauravcodepro/streamlit-BIGG-metabolic-analyzer/blob/main/metabolic2.png" height = 400>
 
-[]("https://github.com/gauravcodepro/streamlit-BIGG-metabolic-analyzer/blob/main/metabolic3.png")
+<img src="https://github.com/gauravcodepro/streamlit-BIGG-metabolic-analyzer/blob/main/metabolic3.png" height = 400>
 
 Gaurav \
 Academic Staff Member \
