@@ -7,7 +7,7 @@
 import streamlit as st
 import pandas as pd
 from urllib.request import urlopen
-import BeautifulSoup as bs4
+from bs4 import BeautifulSoup
 import streamlit.components.v1 as components
 
 st.set_page_config(
