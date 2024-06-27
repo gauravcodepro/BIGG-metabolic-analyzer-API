@@ -6,7 +6,7 @@
 - I implemented faster iteration and hash searching to make it faster and not implemented the page rank or the stack algorithm. 
 
 ```
-git clone https://github.com/gauravcodepro/streamlit-BIGG-metabolic-analyzer.git
+git clone https://github.com/gauravcodepro/BIGG-metabolic-analyzer.git
 cd streamlit-BIGG-metabolic-analyzer
 conda activate streamlit
 streamlit run streamlit-metabolic.py
