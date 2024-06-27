@@ -1,4 +1,4 @@
-# streamlit-BIGG-metabolic-analyzer-API
+# BIGG-metabolic-analyzer-API
 
 - streamlit application as API to analyze the [BIGG Metabolic models](http://bigg.ucsd.edu/)
 - You can have the reactions, gene sequences
