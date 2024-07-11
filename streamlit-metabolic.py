@@ -1,6 +1,5 @@
 #! usr/bin/env python3
 # Author Gaurav
-# Univeristat Potsdam
 # Date 2024-6-21
 # a streamlit application for the analysis of the metabolic models from BIGG database.
 
@@ -12,12 +11,10 @@ import streamlit.components.v1 as components
 
 st.set_page_config(
                  page_title="Metabolic models analyzer",
-                 page_icon="Universitat Potsdam",
                  layout="centered",
                  initial_sidebar_state="expanded")
-st.image("https://www.uni-potsdam.de/typo3conf/ext/up_template/Resources/Public/Images/logos/up_logo_international_2.png", width = 100)
-st.header("Metabolic models analyzer Universitat Potsdam")
-st.subheader("Developed by Gaurav Sablok, Academic Staff Member, Bioinformatics, Universitat Potsdam, Germany")
+st.header("Metabolic models analyzer")
+st.subheader("Developed by Gaurav Sablok")
 
 help = st.button("Display the help toggle button")
 if help:
